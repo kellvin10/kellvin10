@@ -1,0 +1,20 @@
+
+<header>
+    <img src="" alt="">
+    <ul>
+        <li>Escola</li>
+        <li>Estudante</li>
+    </ul>
+</header>
+<img src="alurastart logo.png" alt="">
+<img src="alurastart logo.png" alt="logo da alura start">
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
+.cabecalho-imagem{
+    width: 20%;
+}
