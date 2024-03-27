@@ -1,20 +1,4 @@
 
-<header>
-    <img src="" alt="">
-    <ul>
-        <li>Escola</li>
-        <li>Estudante</li>
-    </ul>
-</header>
-<img src="alurastart logo.png" alt="">
-<img src="alurastart logo.png" alt="logo da alura start">
-    <header class="cabecalho">
-        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
-        <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item">Escola</li>
-            <li class="cabecalho-lista-item">Estudante</li>
-        </ul>
-    </header>
 .cabecalho-imagem{
     width: 20%;
 }
@@ -38,24 +22,7 @@
     margin: 0 16px;
     font-size: 24px;
 }
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header class="cabecalho">
-        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
-        <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item">Escola</li>
-            <li class="cabecalho-lista-item">Estudante</li>
-        </ul>
-    </header>
-</body>
-</html>
+
 *{
     margin: 0;
     padding: 0;
